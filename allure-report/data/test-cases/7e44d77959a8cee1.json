@@ -1,0 +1,111 @@
+{
+  "uid" : "7e44d77959a8cee1",
+  "name" : "test_login[13267872396-ma13267872396-myx_mnb]",
+  "fullName" : "test.test_01_login.TestLogin#test_login",
+  "historyId" : "ca802d30cfdc1b76dd236d904d536e32",
+  "time" : {
+    "start" : 1685699386319,
+    "stop" : 1685699392771,
+    "duration" : 6452
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestLogin",
+    "time" : {
+      "start" : 1685699353952,
+      "stop" : 1685699359255,
+      "duration" : 5303
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6ed58cccaca195b4",
+      "name" : "log",
+      "source" : "6ed58cccaca195b4.txt",
+      "type" : "text/plain",
+      "size" : 913
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestLogin::0",
+    "time" : {
+      "start" : 1685699392773,
+      "stop" : 1685699394971,
+      "duration" : 2198
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_01_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "XiaoXin16"
+  }, {
+    "name" : "thread",
+    "value" : "17980-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_01_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "info",
+    "value" : "'myx_mnb'"
+  }, {
+    "name" : "password",
+    "value" : "'ma13267872396'"
+  }, {
+    "name" : "username",
+    "value" : "'13267872396'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e44d77959a8cee1.json",
+  "parameterValues" : [ "'myx_mnb'", "'ma13267872396'", "'13267872396'" ]
+}

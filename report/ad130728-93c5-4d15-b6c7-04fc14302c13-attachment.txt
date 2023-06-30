@@ -1,0 +1,12 @@
+INFO     root:base.py:21 初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="4ac882aa90f5d8a38e29da4a796ec93c")>
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="commonTopbar_login"]/a[1]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="commonTopbar_login"]/a[1]')
+INFO     root:base.py:32 正在查找元素('id', 'mask_body_item_username')
+INFO     root:base.py:61 正在给元素：('id', 'mask_body_item_username')进行清空
+INFO     root:base.py:64 正在给元素('id', 'mask_body_item_username')输入内容：
+INFO     root:base.py:32 正在查找元素('id', 'mask_body_item_newpassword')
+INFO     root:base.py:61 正在给元素：('id', 'mask_body_item_newpassword')进行清空
+INFO     root:base.py:64 正在给元素('id', 'mask_body_item_newpassword')输入内容：ma13267872396
+INFO     root:base.py:32 正在查找元素('id', 'mask_body_item_login')
+INFO     root:base.py:52 正在点击元素：('id', 'mask_body_item_login')
+INFO     root:base.py:43 正在截图

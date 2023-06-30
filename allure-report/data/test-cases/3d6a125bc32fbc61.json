@@ -1,0 +1,111 @@
+{
+  "uid" : "3d6a125bc32fbc61",
+  "name" : "test_login[13267872396--\\u60a8\\u8fd8\\u672a\\u8f93\\u5165\\u5bc6\\u7801]",
+  "fullName" : "test.test_01_login.TestLogin#test_login",
+  "historyId" : "5027b1337b9bbdb5305737e9f4cb8453",
+  "time" : {
+    "start" : 1685699366049,
+    "stop" : 1685699372781,
+    "duration" : 6732
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestLogin",
+    "time" : {
+      "start" : 1685699353952,
+      "stop" : 1685699359255,
+      "duration" : 5303
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1d56adba6e2065a2",
+      "name" : "log",
+      "source" : "1d56adba6e2065a2.txt",
+      "type" : "text/plain",
+      "size" : 718
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestLogin::0",
+    "time" : {
+      "start" : 1685699392773,
+      "stop" : 1685699394971,
+      "duration" : 2198
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_01_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "XiaoXin16"
+  }, {
+    "name" : "thread",
+    "value" : "17980-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_01_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "info",
+    "value" : "'您还未输入密码'"
+  }, {
+    "name" : "password",
+    "value" : "''"
+  }, {
+    "name" : "username",
+    "value" : "'13267872396'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d6a125bc32fbc61.json",
+  "parameterValues" : [ "'您还未输入密码'", "''", "'13267872396'" ]
+}

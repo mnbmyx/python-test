@@ -1,0 +1,36 @@
+INFO     root:base.py:100 正在使用cookice登录...
+INFO     root:base.py:21 初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="7e30ec921ffea6b98eb170346f52d335")>
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="escNav"]/a')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="escNav"]/a')
+INFO     root:base.py:74 正在切换窗口
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="pinpai"]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="pinpai"]')
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="pinPaiUl"]/li[188]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="pinPaiUl"]/li[188]')
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="cheXiUl"]/li[4]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="cheXiUl"]/li[4]')
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="cheXingUl"]/li[3]/span')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="cheXingUl"]/li[3]/span')
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="list"]/ul/li[4]/div/div/ul/li/div/p[2]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="list"]/ul/li[4]/div/div/ul/li/div/p[2]')
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="yearList"]/li[1]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="yearList"]/li[1]')
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="monthList"]/li[4]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="monthList"]/li[4]')
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="xslicheng"]')
+INFO     root:base.py:61 正在给元素：('xpath', '//*[@id="xslicheng"]')进行清空
+INFO     root:base.py:64 正在给元素('xpath', '//*[@id="xslicheng"]')输入内容：0.7
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="area"]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="area"]')
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="provinceList"]/li[2]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="provinceList"]/li[2]')
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="phone"]')
+INFO     root:base.py:61 正在给元素：('xpath', '//*[@id="phone"]')进行清空
+INFO     root:base.py:64 正在给元素('xpath', '//*[@id="phone"]')输入内容：13267872398
+INFO     root:base.py:43 正在截图
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="operate"]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="operate"]')
+INFO     root:base.py:74 正在切换窗口
+INFO     root:base.py:43 正在截图
+INFO     root:base.py:68 正在定位元素('xpath', '/html/body/div[4]/div[5]/div/div[3]/a[1]')
+INFO     root:base.py:32 正在查找元素('xpath', '/html/body/div[4]/div[5]/div/div[3]/a[1]')

@@ -1,0 +1,172 @@
+2023-06-02 17:49:17,599INFO [root] [base.py(__init__:21)] - 初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="4ac882aa90f5d8a38e29da4a796ec93c")>
+2023-06-02 17:49:18,614INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="commonTopbar_login"]/a[1]')
+2023-06-02 17:49:19,254INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="commonTopbar_login"]/a[1]')
+2023-06-02 17:49:20,256INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_username')
+2023-06-02 17:49:20,284INFO [root] [base.py(base_input:61)] - 正在给元素：('id', 'mask_body_item_username')进行清空
+2023-06-02 17:49:20,308INFO [root] [base.py(base_input:64)] - 正在给元素('id', 'mask_body_item_username')输入内容：
+2023-06-02 17:49:21,312INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_newpassword')
+2023-06-02 17:49:21,337INFO [root] [base.py(base_input:61)] - 正在给元素：('id', 'mask_body_item_newpassword')进行清空
+2023-06-02 17:49:21,378INFO [root] [base.py(base_input:64)] - 正在给元素('id', 'mask_body_item_newpassword')输入内容：ma13267872396
+2023-06-02 17:49:22,388INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_login')
+2023-06-02 17:49:22,423INFO [root] [base.py(base_click:52)] - 正在点击元素：('id', 'mask_body_item_login')
+2023-06-02 17:49:23,433INFO [root] [base.py(base_get_img:43)] - 正在截图
+2023-06-02 17:49:27,057INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_username')
+2023-06-02 17:49:27,071INFO [root] [base.py(base_input:61)] - 正在给元素：('id', 'mask_body_item_username')进行清空
+2023-06-02 17:49:27,103INFO [root] [base.py(base_input:64)] - 正在给元素('id', 'mask_body_item_username')输入内容：13267872396
+2023-06-02 17:49:28,104INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_newpassword')
+2023-06-02 17:49:28,124INFO [root] [base.py(base_input:61)] - 正在给元素：('id', 'mask_body_item_newpassword')进行清空
+2023-06-02 17:49:28,141INFO [root] [base.py(base_input:64)] - 正在给元素('id', 'mask_body_item_newpassword')输入内容：
+2023-06-02 17:49:29,149INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_login')
+2023-06-02 17:49:29,175INFO [root] [base.py(base_click:52)] - 正在点击元素：('id', 'mask_body_item_login')
+2023-06-02 17:49:30,176INFO [root] [base.py(base_get_img:43)] - 正在截图
+2023-06-02 17:49:33,792INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_username')
+2023-06-02 17:49:33,814INFO [root] [base.py(base_input:61)] - 正在给元素：('id', 'mask_body_item_username')进行清空
+2023-06-02 17:49:33,845INFO [root] [base.py(base_input:64)] - 正在给元素('id', 'mask_body_item_username')输入内容：13267872396
+2023-06-02 17:49:34,851INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_newpassword')
+2023-06-02 17:49:34,867INFO [root] [base.py(base_input:61)] - 正在给元素：('id', 'mask_body_item_newpassword')进行清空
+2023-06-02 17:49:34,892INFO [root] [base.py(base_input:64)] - 正在给元素('id', 'mask_body_item_newpassword')输入内容：Ma123
+2023-06-02 17:49:35,897INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_login')
+2023-06-02 17:49:35,924INFO [root] [base.py(base_click:52)] - 正在点击元素：('id', 'mask_body_item_login')
+2023-06-02 17:49:36,926INFO [root] [base.py(base_get_img:43)] - 正在截图
+2023-06-02 17:49:40,538INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_username')
+2023-06-02 17:49:40,559INFO [root] [base.py(base_input:61)] - 正在给元素：('id', 'mask_body_item_username')进行清空
+2023-06-02 17:49:40,588INFO [root] [base.py(base_input:64)] - 正在给元素('id', 'mask_body_item_username')输入内容：13267872396
+2023-06-02 17:49:41,596INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_newpassword')
+2023-06-02 17:49:41,617INFO [root] [base.py(base_input:61)] - 正在给元素：('id', 'mask_body_item_newpassword')进行清空
+2023-06-02 17:49:41,645INFO [root] [base.py(base_input:64)] - 正在给元素('id', 'mask_body_item_newpassword')输入内容：Ma13267872396
+2023-06-02 17:49:42,653INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_login')
+2023-06-02 17:49:42,690INFO [root] [base.py(base_click:52)] - 正在点击元素：('id', 'mask_body_item_login')
+2023-06-02 17:49:43,697INFO [root] [base.py(base_get_img:43)] - 正在截图
+2023-06-02 17:49:47,326INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_username')
+2023-06-02 17:49:47,347INFO [root] [base.py(base_input:61)] - 正在给元素：('id', 'mask_body_item_username')进行清空
+2023-06-02 17:49:47,379INFO [root] [base.py(base_input:64)] - 正在给元素('id', 'mask_body_item_username')输入内容：13267872396
+2023-06-02 17:49:48,383INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_newpassword')
+2023-06-02 17:49:48,404INFO [root] [base.py(base_input:61)] - 正在给元素：('id', 'mask_body_item_newpassword')进行清空
+2023-06-02 17:49:48,432INFO [root] [base.py(base_input:64)] - 正在给元素('id', 'mask_body_item_newpassword')输入内容：ma13267872396
+2023-06-02 17:49:49,442INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'mask_body_item_login')
+2023-06-02 17:49:49,481INFO [root] [base.py(base_click:52)] - 正在点击元素：('id', 'mask_body_item_login')
+2023-06-02 17:49:50,495INFO [root] [base.py(base_get_img:43)] - 正在截图
+2023-06-02 17:49:52,753INFO [root] [base.py(base_info:68)] - 正在定位元素('xpath', '//*[@id="commonTopbar_login"]/span')
+2023-06-02 17:49:52,753INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="commonTopbar_login"]/span')
+2023-06-02 17:49:59,324INFO [root] [base.py(base_cookice:100)] - 正在使用cookice登录...
+2023-06-02 17:50:05,692INFO [root] [base.py(__init__:21)] - 初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="322ec15c350f3d4fb621a0c8723901e8")>
+2023-06-02 17:50:06,708INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="zpNav"]/a')
+2023-06-02 17:50:06,766INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="zpNav"]/a')
+2023-06-02 17:50:06,778INFO [root] [base.py(base_switch_windows:74)] - 正在切换窗口
+2023-06-02 17:50:07,794INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[2]/div/div[2]/a[2]')
+2023-06-02 17:50:08,323INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '/html/body/div[2]/div/div[2]/a[2]')
+2023-06-02 17:50:08,329INFO [root] [base.py(base_switch_windows:74)] - 正在切换窗口
+2023-06-02 17:50:09,338INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="job"]/div[2]')
+2023-06-02 17:50:10,804INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="job"]/div[2]')
+2023-06-02 17:50:11,815INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[2]/form/div[1]/div[2]/ul/li[1]/div[2]/div[2]/ul/li[6]/ul/li[1]')
+2023-06-02 17:50:11,852INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '/html/body/div[2]/form/div[1]/div[2]/ul/li[1]/div[2]/div[2]/ul/li[6]/ul/li[1]')
+2023-06-02 17:50:12,861INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[2]/form/div[1]/div[2]/ul/li[1]/div[2]/div[2]/ul/li[6]/ul/li[1]/ul/li[9]/i')
+2023-06-02 17:50:12,903INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '/html/body/div[2]/form/div[1]/div[2]/ul/li[1]/div[2]/div[2]/ul/li[6]/ul/li[1]/ul/li[9]/i')
+2023-06-02 17:50:13,915INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="search-close"]')
+2023-06-02 17:50:13,994INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="search-close"]')
+2023-06-02 17:50:15,007INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="address-first-text"]')
+2023-06-02 17:50:15,044INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="address-first-text"]')
+2023-06-02 17:50:16,048INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="address"]/div[4]/div[2]/div/ul/li[2]/a')
+2023-06-02 17:50:16,128INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="address"]/div[4]/div[2]/div/ul/li[2]/a')
+2023-06-02 17:50:17,137INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="address"]/div[4]/div/ul/li[4]/a')
+2023-06-02 17:50:17,216INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="address"]/div[4]/div/ul/li[4]/a')
+2023-06-02 17:50:18,228INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="address"]/div[4]/div/ul/li[4]/a')
+2023-06-02 17:50:18,307INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="address"]/div[4]/div/ul/li[4]/a')
+2023-06-02 17:50:19,317INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[2]/form/div[1]/div[2]/ul/li[3]/div/div[1]')
+2023-06-02 17:50:19,351INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '/html/body/div[2]/form/div[1]/div[2]/ul/li[3]/div/div[1]')
+2023-06-02 17:50:20,361INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[2]/form/div[1]/div[2]/ul/li[3]/div/div[3]/ul/li[6]/a')
+2023-06-02 17:50:20,456INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '/html/body/div[2]/form/div[1]/div[2]/ul/li[3]/div/div[3]/ul/li[6]/a')
+2023-06-02 17:50:21,461INFO [root] [base.py(base_get_element:32)] - 正在查找元素('id', 'txtUserName')
+2023-06-02 17:50:21,496INFO [root] [base.py(base_input:61)] - 正在给元素：('id', 'txtUserName')进行清空
+2023-06-02 17:50:21,531INFO [root] [base.py(base_input:64)] - 正在给元素('id', 'txtUserName')输入内容：张三
+2023-06-02 17:50:22,536INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[2]/form/div[2]/div[2]/ul/li[3]/div/div[1]')
+2023-06-02 17:50:22,571INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '/html/body/div[2]/form/div[2]/div[2]/ul/li[3]/div/div[1]')
+2023-06-02 17:50:23,581INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="yearList"]/ul/li[6]/a')
+2023-06-02 17:50:23,662INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="yearList"]/ul/li[6]/a')
+2023-06-02 17:50:24,669INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[2]/form/div[2]/div[2]/ul/li[4]/div/div[1]')
+2023-06-02 17:50:24,702INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '/html/body/div[2]/form/div[2]/div[2]/ul/li[4]/div/div[1]')
+2023-06-02 17:50:25,710INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[2]/form/div[2]/div[2]/ul/li[4]/div/div[3]/ul/li[2]/a')
+2023-06-02 17:50:25,792INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '/html/body/div[2]/form/div[2]/div[2]/ul/li[4]/div/div[3]/ul/li[2]/a')
+2023-06-02 17:50:26,799INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[2]/form/div[2]/div[2]/ul/li[5]/div/div[1]')
+2023-06-02 17:50:26,829INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '/html/body/div[2]/form/div[2]/div[2]/ul/li[5]/div/div[1]')
+2023-06-02 17:50:27,844INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[2]/form/div[2]/div[2]/ul/li[5]/div/div[3]/ul/li[5]/a')
+2023-06-02 17:50:27,924INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '/html/body/div[2]/form/div[2]/div[2]/ul/li[5]/div/div[3]/ul/li[5]/a')
+2023-06-02 17:50:27,925INFO [root] [base.py(base_get_img:43)] - 正在截图
+2023-06-02 17:50:31,130INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="submit"]')
+2023-06-02 17:50:31,168INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="submit"]')
+2023-06-02 17:50:32,182INFO [root] [base.py(base_get_img:43)] - 正在截图
+2023-06-02 17:50:34,365INFO [root] [base.py(base_info:68)] - 正在定位元素('xpath', '/html/body/div[1]/div[2]/div/div[2]/div/div[1]/div/div/h2')
+2023-06-02 17:50:34,365INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[1]/div[2]/div/div[2]/div/div[1]/div/div/h2')
+2023-06-02 17:50:41,183INFO [root] [base.py(base_cookice:100)] - 正在使用cookice登录...
+2023-06-02 17:50:43,260INFO [root] [base.py(__init__:21)] - 初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="378e1c7548d4e3fee8d74e437e7ce6ec")>
+2023-06-02 17:50:44,266INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="esNav"]/a')
+2023-06-02 17:50:44,325INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="esNav"]/a')
+2023-06-02 17:50:44,332INFO [root] [base.py(base_switch_windows:74)] - 正在切换窗口
+2023-06-02 17:50:45,342INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="header"]/div/a[2]/img')
+2023-06-02 17:50:45,409INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="header"]/div/a[2]/img')
+2023-06-02 17:50:45,416INFO [root] [base.py(base_switch_windows:74)] - 正在切换窗口
+2023-06-02 17:50:46,420INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[4]/a')
+2023-06-02 17:50:46,478INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '/html/body/div[4]/a')
+2023-06-02 17:50:46,484INFO [root] [base.py(base_switch_windows:74)] - 正在切换窗口
+2023-06-02 17:50:47,495INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="popularizeMoneyBuy"]/div[2]')
+2023-06-02 17:50:47,551INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="popularizeMoneyBuy"]/div[2]')
+2023-06-02 17:50:48,559INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="popularizeListMask"]/div/div[3]/label[1]/div/span[2]')
+2023-06-02 17:50:48,598INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="popularizeListMask"]/div/div[3]/label[1]/div/span[2]')
+2023-06-02 17:50:49,603INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="popularizeListMask"]/div/div[3]/label[2]/div/span[2]')
+2023-06-02 17:50:49,644INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="popularizeListMask"]/div/div[3]/label[2]/div/span[2]')
+2023-06-02 17:50:50,647INFO [root] [base.py(base_get_img:43)] - 正在截图
+2023-06-02 17:50:53,876INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="popularizeMaskBuy"]/button[1]')
+2023-06-02 17:50:53,913INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="popularizeMaskBuy"]/button[1]')
+2023-06-02 17:50:53,913INFO [root] [base.py(base_info:68)] - 正在定位元素('xpath', '//*[@id="app"]/div[2]/div/div[2]/div[1]/ul/li/div/p[1]')
+2023-06-02 17:50:53,913INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="app"]/div[2]/div/div[2]/div[1]/ul/li/div/p[1]')
+2023-06-02 17:51:00,534INFO [root] [base.py(base_cookice:100)] - 正在使用cookice登录...
+2023-06-02 17:51:06,241INFO [root] [base.py(__init__:21)] - 初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="7e30ec921ffea6b98eb170346f52d335")>
+2023-06-02 17:51:07,249INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="escNav"]/a')
+2023-06-02 17:51:07,316INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="escNav"]/a')
+2023-06-02 17:51:07,322INFO [root] [base.py(base_switch_windows:74)] - 正在切换窗口
+2023-06-02 17:51:08,337INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="pinpai"]')
+2023-06-02 17:51:08,630INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="pinpai"]')
+2023-06-02 17:51:09,634INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="pinPaiUl"]/li[188]')
+2023-06-02 17:51:09,702INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="pinPaiUl"]/li[188]')
+2023-06-02 17:51:10,708INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="cheXiUl"]/li[4]')
+2023-06-02 17:51:10,748INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="cheXiUl"]/li[4]')
+2023-06-02 17:51:11,752INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="cheXingUl"]/li[3]/span')
+2023-06-02 17:51:11,797INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="cheXingUl"]/li[3]/span')
+2023-06-02 17:51:12,798INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="list"]/ul/li[4]/div/div/ul/li/div/p[2]')
+2023-06-02 17:51:12,840INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="list"]/ul/li[4]/div/div/ul/li/div/p[2]')
+2023-06-02 17:51:13,855INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="yearList"]/li[1]')
+2023-06-02 17:51:13,897INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="yearList"]/li[1]')
+2023-06-02 17:51:14,900INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="monthList"]/li[4]')
+2023-06-02 17:51:14,940INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="monthList"]/li[4]')
+2023-06-02 17:51:15,944INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="xslicheng"]')
+2023-06-02 17:51:15,983INFO [root] [base.py(base_input:61)] - 正在给元素：('xpath', '//*[@id="xslicheng"]')进行清空
+2023-06-02 17:51:16,025INFO [root] [base.py(base_input:64)] - 正在给元素('xpath', '//*[@id="xslicheng"]')输入内容：0.7
+2023-06-02 17:51:17,034INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="area"]')
+2023-06-02 17:51:17,079INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="area"]')
+2023-06-02 17:51:18,081INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="provinceList"]/li[2]')
+2023-06-02 17:51:18,123INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="provinceList"]/li[2]')
+2023-06-02 17:51:19,126INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="phone"]')
+2023-06-02 17:51:19,166INFO [root] [base.py(base_input:61)] - 正在给元素：('xpath', '//*[@id="phone"]')进行清空
+2023-06-02 17:51:19,201INFO [root] [base.py(base_input:64)] - 正在给元素('xpath', '//*[@id="phone"]')输入内容：13267872398
+2023-06-02 17:51:19,201INFO [root] [base.py(base_get_img:43)] - 正在截图
+2023-06-02 17:51:22,628INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="operate"]')
+2023-06-02 17:51:22,673INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="operate"]')
+2023-06-02 17:51:23,812INFO [root] [base.py(base_switch_windows:74)] - 正在切换窗口
+2023-06-02 17:51:24,826INFO [root] [base.py(base_get_img:43)] - 正在截图
+2023-06-02 17:51:27,031INFO [root] [base.py(base_info:68)] - 正在定位元素('xpath', '/html/body/div[4]/div[5]/div/div[3]/a[1]')
+2023-06-02 17:51:27,031INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[4]/div[5]/div/div[3]/a[1]')
+2023-06-02 17:51:34,524INFO [root] [base.py(base_cookice:100)] - 正在使用cookice登录...
+2023-06-02 17:51:36,607INFO [root] [base.py(__init__:21)] - 初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="674e4d74aa2ebe693ec86de6e894127c")>
+2023-06-02 17:51:37,616INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="nav"]/li[6]/a')
+2023-06-02 17:51:37,706INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="nav"]/li[6]/a')
+2023-06-02 17:51:37,713INFO [root] [base.py(base_switch_windows:74)] - 正在切换窗口
+2023-06-02 17:51:38,719INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="search_keyword"]')
+2023-06-02 17:51:39,700INFO [root] [base.py(base_input:61)] - 正在给元素：('xpath', '//*[@id="search_keyword"]')进行清空
+2023-06-02 17:51:39,754INFO [root] [base.py(base_input:64)] - 正在给元素('xpath', '//*[@id="search_keyword"]')输入内容：柯尼塞格
+2023-06-02 17:51:40,758INFO [root] [base.py(base_get_img:43)] - 正在截图
+2023-06-02 17:51:44,254INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '//*[@id="searcbtn"]')
+2023-06-02 17:51:44,321INFO [root] [base.py(base_click:52)] - 正在点击元素：('xpath', '//*[@id="searcbtn"]')
+2023-06-02 17:51:45,330INFO [root] [base.py(base_switch_windows:74)] - 正在切换窗口
+2023-06-02 17:51:46,345INFO [root] [base.py(base_get_img:43)] - 正在截图
+2023-06-02 17:51:48,578INFO [root] [base.py(base_info:68)] - 正在定位元素('xpath', '/html/body/div[5]/div[1]/div[1]/div/a')
+2023-06-02 17:51:48,578INFO [root] [base.py(base_get_element:32)] - 正在查找元素('xpath', '/html/body/div[5]/div[1]/div[1]/div/a')

@@ -1,0 +1,9 @@
+INFO     root:base.py:32 正在查找元素('id', 'mask_body_item_username')
+INFO     root:base.py:61 正在给元素：('id', 'mask_body_item_username')进行清空
+INFO     root:base.py:64 正在给元素('id', 'mask_body_item_username')输入内容：13267872396
+INFO     root:base.py:32 正在查找元素('id', 'mask_body_item_newpassword')
+INFO     root:base.py:61 正在给元素：('id', 'mask_body_item_newpassword')进行清空
+INFO     root:base.py:64 正在给元素('id', 'mask_body_item_newpassword')输入内容：Ma123
+INFO     root:base.py:32 正在查找元素('id', 'mask_body_item_login')
+INFO     root:base.py:52 正在点击元素：('id', 'mask_body_item_login')
+INFO     root:base.py:43 正在截图

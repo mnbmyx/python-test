@@ -1,0 +1,15 @@
+INFO     root:base.py:100 正在使用cookice登录...
+INFO     root:base.py:21 初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="674e4d74aa2ebe693ec86de6e894127c")>
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="nav"]/li[6]/a')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="nav"]/li[6]/a')
+INFO     root:base.py:74 正在切换窗口
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="search_keyword"]')
+INFO     root:base.py:61 正在给元素：('xpath', '//*[@id="search_keyword"]')进行清空
+INFO     root:base.py:64 正在给元素('xpath', '//*[@id="search_keyword"]')输入内容：柯尼塞格
+INFO     root:base.py:43 正在截图
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="searcbtn"]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="searcbtn"]')
+INFO     root:base.py:74 正在切换窗口
+INFO     root:base.py:43 正在截图
+INFO     root:base.py:68 正在定位元素('xpath', '/html/body/div[5]/div[1]/div[1]/div/a')
+INFO     root:base.py:32 正在查找元素('xpath', '/html/body/div[5]/div[1]/div[1]/div/a')

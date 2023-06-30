@@ -1,0 +1,102 @@
+{
+  "uid" : "1e80789d5ab857ec",
+  "name" : "test_jianli",
+  "fullName" : "test.test_02_jianli.TestJianli#test_jianli",
+  "historyId" : "28dda9a9a2c73e795579bd093e2f9bf0",
+  "time" : {
+    "start" : 1685699405693,
+    "stop" : 1685699434384,
+    "duration" : 28691
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestJianli",
+    "time" : {
+      "start" : 1685699395080,
+      "stop" : 1685699405692,
+      "duration" : 10612
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1ac24da4330818ba",
+      "name" : "log",
+      "source" : "1ac24da4330818ba.txt",
+      "type" : "text/plain",
+      "size" : 4806
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestJianli::0",
+    "time" : {
+      "start" : 1685699434384,
+      "stop" : 1685699436584,
+      "duration" : 2200
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_02_jianli"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJianli"
+  }, {
+    "name" : "host",
+    "value" : "XiaoXin16"
+  }, {
+    "name" : "thread",
+    "value" : "17980-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_02_jianli"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e80789d5ab857ec.json",
+  "parameterValues" : [ ]
+}

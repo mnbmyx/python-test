@@ -1,0 +1,187 @@
+[
+  {
+    "domain": ".58.com",
+    "expiry": 1717163019,
+    "httpOnly": false,
+    "name": "als",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  },
+  {
+    "domain": ".58.com",
+    "expiry": 1685628814,
+    "httpOnly": false,
+    "name": "init_refer",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": ""
+  },
+  {
+    "domain": ".58.com",
+    "expiry": 1685628814,
+    "httpOnly": false,
+    "name": "spm",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": ""
+  },
+  {
+    "domain": ".58.com",
+    "expiry": 1685628814,
+    "httpOnly": false,
+    "name": "utm_source",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": ""
+  },
+  {
+    "domain": "my.58.com",
+    "expiry": 1685635200,
+    "httpOnly": false,
+    "name": "commontopbar_new_city_info",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1%7C%E5%8C%97%E4%BA%AC%7Cbj"
+  },
+  {
+    "domain": ".58.com",
+    "httpOnly": false,
+    "name": "58uname",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "myx_mnb"
+  },
+  {
+    "domain": ".58.com",
+    "expiry": 1717163014,
+    "httpOnly": false,
+    "name": "58tj_uuid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "9ef13519-579d-4f72-8daa-53e1c25589e4"
+  },
+  {
+    "domain": ".58.com",
+    "httpOnly": false,
+    "name": "www58com",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "\"UserID=96296079294990&UserName=myx_mnb\""
+  },
+  {
+    "domain": ".58.com",
+    "httpOnly": false,
+    "name": "PPU",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "\"UID=96296079294990&UN=myx_mnb&TT=a5ca160c21f02d3e12b416c46224d87b&PBODY=bfIp1DQOBn9whEydZEJXpg9j4BpVWUY7T1BmiyHCY-CfXa7nNHyNAiZYDLSGj_r5vMWGeG9_RLjSIJJa7wgW2n2kOTrRgTpNKxvQ6ItR5_O_ALNOQlXOxWVeccI7-SQQuTED0r0a6DeRK9kj_wHLs-aIjWIRsNTmO8gpTF1pBdc&VER=1&CUID=HXgs9p0AMu6r1DDuN9JYLA\""
+  },
+  {
+    "domain": "my.58.com",
+    "expiry": 1685635200,
+    "httpOnly": false,
+    "name": "commontopbar_ipcity",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "fs%7C%E4%BD%9B%E5%B1%B1%7C0"
+  },
+  {
+    "domain": ".58.com",
+    "expiry": 1720187011,
+    "httpOnly": false,
+    "name": "id58",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "CocGRmR4oIQh2TYNDlItAg=="
+  },
+  {
+    "domain": ".58.com",
+    "expiry": 1717163014,
+    "httpOnly": false,
+    "name": "new_uv",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".58.com",
+    "httpOnly": false,
+    "name": "passportAccount",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "\"atype=0&bstate=0\""
+  },
+  {
+    "domain": ".58.com",
+    "expiry": 1685628814,
+    "httpOnly": false,
+    "name": "new_session",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".58.com",
+    "expiry": 1717163011,
+    "httpOnly": false,
+    "name": "wmda_visited_projects",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "%3B10104579731767"
+  },
+  {
+    "domain": ".58.com",
+    "httpOnly": false,
+    "name": "58cooper",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "\"userid=96296079294990&username=myx_mnb\""
+  },
+  {
+    "domain": ".58.com",
+    "expiry": 1717163011,
+    "httpOnly": false,
+    "name": "wmda_uuid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "96af5cd8d8b572f060a7bca54a2fae38"
+  },
+  {
+    "domain": ".58.com",
+    "expiry": 1685628814,
+    "httpOnly": false,
+    "name": "wmda_session_id_10104579731767",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1685627011366-1b14a946-f379-94e8"
+  },
+  {
+    "domain": ".58.com",
+    "expiry": 1717163011,
+    "httpOnly": false,
+    "name": "wmda_new_uuid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  }
+]

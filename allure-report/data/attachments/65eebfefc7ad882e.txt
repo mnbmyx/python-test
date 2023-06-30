@@ -1,0 +1,22 @@
+INFO     root:base.py:100 正在使用cookice登录...
+INFO     root:base.py:21 初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="378e1c7548d4e3fee8d74e437e7ce6ec")>
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="esNav"]/a')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="esNav"]/a')
+INFO     root:base.py:74 正在切换窗口
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="header"]/div/a[2]/img')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="header"]/div/a[2]/img')
+INFO     root:base.py:74 正在切换窗口
+INFO     root:base.py:32 正在查找元素('xpath', '/html/body/div[4]/a')
+INFO     root:base.py:52 正在点击元素：('xpath', '/html/body/div[4]/a')
+INFO     root:base.py:74 正在切换窗口
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="popularizeMoneyBuy"]/div[2]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="popularizeMoneyBuy"]/div[2]')
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="popularizeListMask"]/div/div[3]/label[1]/div/span[2]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="popularizeListMask"]/div/div[3]/label[1]/div/span[2]')
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="popularizeListMask"]/div/div[3]/label[2]/div/span[2]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="popularizeListMask"]/div/div[3]/label[2]/div/span[2]')
+INFO     root:base.py:43 正在截图
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="popularizeMaskBuy"]/button[1]')
+INFO     root:base.py:52 正在点击元素：('xpath', '//*[@id="popularizeMaskBuy"]/button[1]')
+INFO     root:base.py:68 正在定位元素('xpath', '//*[@id="app"]/div[2]/div/div[2]/div[1]/ul/li/div/p[1]')
+INFO     root:base.py:32 正在查找元素('xpath', '//*[@id="app"]/div[2]/div/div[2]/div[1]/ul/li/div/p[1]')

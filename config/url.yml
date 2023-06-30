@@ -1,0 +1,22 @@
+58tc:
+  url: https://fs.58.com/
+
+Service:
+  service: r'C:\python\python3.10\chromedriver.exe'
+
+cart_pinggu:
+  load: 0.7
+  phone: 13267872398
+  info: 一键卖车
+
+new_cart:
+  cartname: 柯尼塞格
+  info: 科尼赛克CCXR-频道
+
+shopping:
+  info: 黄页推广币
+
+jianli:
+  name: 张三
+
+

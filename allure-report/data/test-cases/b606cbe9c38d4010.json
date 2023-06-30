@@ -1,0 +1,102 @@
+{
+  "uid" : "b606cbe9c38d4010",
+  "name" : "test_pinggu",
+  "fullName" : "test.test_04_pinggu.TestPinggu#test_pinggu",
+  "historyId" : "21ba3d8f231a881b1fed5bef4907a71c",
+  "time" : {
+    "start" : 1685699466243,
+    "stop" : 1685699487051,
+    "duration" : 20808
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestPinggu",
+    "time" : {
+      "start" : 1685699456552,
+      "stop" : 1685699466242,
+      "duration" : 9690
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ce464e33fa9805f2",
+      "name" : "log",
+      "source" : "ce464e33fa9805f2.txt",
+      "type" : "text/plain",
+      "size" : 2903
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestPinggu::0",
+    "time" : {
+      "start" : 1685699487052,
+      "stop" : 1685699489254,
+      "duration" : 2202
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_04_pinggu"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPinggu"
+  }, {
+    "name" : "host",
+    "value" : "XiaoXin16"
+  }, {
+    "name" : "thread",
+    "value" : "17980-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_04_pinggu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b606cbe9c38d4010.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,91 @@
+[ {
+  "uid" : "88a58b7a1f13f75c",
+  "name" : "test_login[-ma13267872396-\\u60a8\\u8fd8\\u672a\\u8f93\\u5165\\u7528\\u6237\\u540d]",
+  "time" : {
+    "start" : 1685699359255,
+    "stop" : 1685699366045,
+    "duration" : 6790
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b606cbe9c38d4010",
+  "name" : "test_pinggu",
+  "time" : {
+    "start" : 1685699466243,
+    "stop" : 1685699487051,
+    "duration" : 20808
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e80789d5ab857ec",
+  "name" : "test_jianli",
+  "time" : {
+    "start" : 1685699405693,
+    "stop" : 1685699434384,
+    "duration" : 28691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0f22ac99d17f3c6",
+  "name" : "test_shopping",
+  "time" : {
+    "start" : 1685699443260,
+    "stop" : 1685699454245,
+    "duration" : 10985
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a26191d5e80b40e2",
+  "name" : "test_login[13267872396-Ma13267872396-\\u8be5\\u7528\\u6237\\u540d\\u4e0e\\u5bc6\\u7801\\u4e0d\\u7b26]",
+  "time" : {
+    "start" : 1685699379533,
+    "stop" : 1685699386314,
+    "duration" : 6781
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d6a125bc32fbc61",
+  "name" : "test_login[13267872396--\\u60a8\\u8fd8\\u672a\\u8f93\\u5165\\u5bc6\\u7801]",
+  "time" : {
+    "start" : 1685699366049,
+    "stop" : 1685699372781,
+    "duration" : 6732
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d52493d8ae6de20",
+  "name" : "test_new_cart",
+  "time" : {
+    "start" : 1685699496608,
+    "stop" : 1685699508598,
+    "duration" : 11990
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30714d5fcae9a785",
+  "name" : "test_login[13267872396-Ma123-\\u5bc6\\u7801\\u957f\\u5ea6\\u4e3a6-16\\u4f4d\\uff0c\\u4e14\\u4e0d\\u80fd\\u662f\\u76f8\\u540c\\u6216\\u8fde\\u7eed\\u5b57\\u7b26]",
+  "time" : {
+    "start" : 1685699372786,
+    "stop" : 1685699379528,
+    "duration" : 6742
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e44d77959a8cee1",
+  "name" : "test_login[13267872396-ma13267872396-myx_mnb]",
+  "time" : {
+    "start" : 1685699386319,
+    "stop" : 1685699392771,
+    "duration" : 6452
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
